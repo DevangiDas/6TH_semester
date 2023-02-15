@@ -1,0 +1,35 @@
+find the tools of 
+
+
+basic funtionality of the tools 
+advantage and limitations of the tool 
+
+
+introduction to R 
+instalation process 
+purpose for R 
+
+ide for R
+difference between the R and Python
+
+//1st lab 
+R is the scripting language
+R for windows 
+R ide
+
+example for r programme 
+print("hello world ")
+one it start with a letter 
+seq(0,5,lelnght=6)
+the cat function combines item into a continuous print statements
+R is designed to handle missing values
+not avavilable  and not a number
+
+//6 data types i R
+the variables are assigned with R obj and the data type of r obj is data type of variables
+vector matrix arrays list datafields
+
+
+R arithemetic operators 
+readline()-takes input 
+difference between cat and paste 

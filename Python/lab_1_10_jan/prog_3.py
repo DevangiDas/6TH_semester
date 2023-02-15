@@ -1,0 +1,36 @@
+#ordered sequence
+#list , we can store heterogenous elements,square bracket,indexing
+list = [ 7890,2.33,"john",7]
+list2 = [1234,4.76,"aryan",5]
+print (list)
+print (list[0])
+print (list[1:3])
+print (list[2:])
+print (len(list))
+print(list+list2)
+print(len(list+list2))
+print (list*2)
+print (2.33 in list)
+for i in list+list2:
+    print(i)
+list.append(456)
+print(list)
+x=list.count(7)
+print (x)
+list.extend("hello")
+print (list)
+t=list.index(7)
+print (t)
+list.insert(2,33)
+print (list)
+list.remove(33)
+print (list)
+list.reverse()
+print (list)
+list.pop(0)
+print(list)
+g=[1,2,4,5,7]
+g.sort()
+print(g)
+g.sort(reverse=True)
+print(g)
