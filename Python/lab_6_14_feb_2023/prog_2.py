@@ -86,7 +86,7 @@ def normalizeBlue(intensity):
 
 # Create an image object
 
-imageObject     = Image.open("D:/VSCode/6th_sem_python/lab_6_14_feb_2023/abs_idea.jpg")
+imageObject     = Image.open("D:/Programing_works/6th_semester_work/Python/lab_6_14_feb_2023/abs_idea.jpg")
 
  
 

@@ -2,7 +2,7 @@
 import cv2    
      
 # path of the input image  
-path = (r'D:/VSCode/6th_sem_python/lab_6_14_feb_2023/abs_idea.jpg')  
+path = (r'D:/Programing_works/6th_semester_work/Python/lab_6_14_feb_2023/abs_idea.jpg')  
      
 # Reading an image in default mode   
 src = cv2.imread(path)   
