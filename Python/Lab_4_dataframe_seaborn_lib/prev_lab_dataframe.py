@@ -27,3 +27,4 @@ print(df4)
 print(df4[["Name","Qualification"]])
 row2=df4.iloc[2,1]
 print(row2)
+

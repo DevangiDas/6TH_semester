@@ -2,6 +2,6 @@
 
 arr<-array(c(1:9,11:19,21:29),dim=c(3,3,3))
 print(arr)
-#rowSums(arr)
-sums<-apply(arr,c(1),sum)
-print(sums)
+rowSums(arr)
+#sums<-apply(arr,c(1),sum)
+#print(sums)

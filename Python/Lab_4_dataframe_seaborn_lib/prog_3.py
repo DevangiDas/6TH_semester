@@ -1,6 +1,5 @@
 #Show the variability in HP in different types of pokemons using BoxPlot.
 #(Visualize using Seaborn)
-
 # Importing the needed libraries.
 import pandas as pd
 import matplotlib.pyplot as plt

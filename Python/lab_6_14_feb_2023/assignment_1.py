@@ -19,3 +19,5 @@ print(px)
 cv.imshow('Image',img)
 cv.waitKey()
 cv.destroyAllWindows()
+
+
