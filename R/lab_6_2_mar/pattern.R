@@ -4,7 +4,8 @@ for (i in 1:height) {
     cat(" ")
   }
   for (j in 1:(2*i-1)) {
-    cat("*")
+    cat("i")
   }
   cat("\n")
 }
+

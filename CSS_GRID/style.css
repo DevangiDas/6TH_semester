@@ -1,0 +1,18 @@
+.container{
+ background-color: rgb(39, 61, 84);
+ height: 700px;
+ width: 900px;
+ display: grid;
+ /* grid-template-columns: 123px 123px 123px;
+ grid-template-rows: 133px 133px 133px; */
+ grid-template-columns: repeat(3, 1fr);
+ grid-template-rows: repeat(3, 1fr);
+ row-gap: 12px;
+ column-gap:12px ;
+}
+
+.item{
+    background-color: rgb(150, 83, 150);
+    /* height: 100px ;
+    width:100px ; */ 
+}
